@@ -1,0 +1,31 @@
+body{
+    
+}
+div.profile-box{
+    text-align: center;
+    background-color: #bde8f27f;
+    margin: 20%;
+    padding: 8%;
+    border-radius: 50px;
+}
+img.profile{
+    width: 80px;
+    border-radius: 40px;
+}
+div.profile{
+    margin: 0;
+}
+select#grade{
+    margin-right: 2%;
+}
+input{
+    border-radius: 8px;
+}
+button.select{
+    width: 200px;
+    padding: 10px;
+    border-radius: 40px;
+    margin-top: 20px;
+    background-color: #232D2F;
+    color: white;
+}
